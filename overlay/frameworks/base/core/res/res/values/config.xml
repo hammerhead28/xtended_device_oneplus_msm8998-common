@@ -707,4 +707,7 @@
     <!-- Whether device has dash charging support -->
     <bool name="config_hasDashCharger">true</bool>
 
+    <!-- Smart Charing is available for OP3 -->
+    <bool name="config_smartChargingAvailable">true</bool>
+
 </resources>
